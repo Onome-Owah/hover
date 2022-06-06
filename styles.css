@@ -32,3 +32,12 @@ body{
 .hover {
     transform: scale(2);
 }
+
+
+@media all and (max-width: 600px){
+#circle{
+    margin-right: 10rem;
+    height: 100px;
+    width: 100px;
+}
+}
